@@ -1,0 +1,44 @@
+[
+    [
+        ["0800","Chole poori","Channa masala"],
+        ["1330","Chicken Biryani","Veg Biryani","Raitha","Tomato Rasam","Steam Rice","Butter Milk","Appalam","Pickle"],
+        ["1700","Masala Vada","Tea/Coffee"],
+        ["2030","Kal Dosa","Sambhar","Chutney","Chapathi","Rajma Dal","Banana","Milk"]
+    ],
+    [
+        ["0800","Idaliyappam","Chapathi","Black Chana Curry","Coconut milk"],
+        ["1330","Keerzi Sambhar","Milagu rasam","Cabbage chickpeas poriyal","Steam Rice","Mixveg curry","Chapathi","Butter milk","Appalam","Pickle"],
+        ["1700","Veg puff","Tea/Coffee"],
+        ["2030","Vegetable pulao","Mix Raitha","Green peas masala","Chapathi","Pickle","Banana","Milk"]
+    ],
+    [
+        ["0800","Idli","Sambar","Coconut Chutney"],
+        ["1330","Vatha kozhambu","Keerai kootu","Raitha","Pineapple Rasam","Steam Rice","Masala Dal","Butter Milk","Appalam","Pickle"],
+        ["1700","French Heart","Tea/Coffee"],
+        ["2030","Steam Rice","Sambhar","Rasam","Chapathi","Tidly Masala","Appalam","Pickle","Milk"]
+    ],
+    [
+        ["0800","Poori","Potato masala","Chapathi","Veg Khorma"],
+        ["1330","Kadhamba sambar","Mint Rasam","Mix veg poriyal","Chapathi","Rajma Dal","Steam Rice","Butter Milk","Appalam","Pickle"],
+        ["1700","Samosa","Tea/Coffee"],
+        ["2030","Paratha","Chicken curry","Paneer butter masala","Steam rice","Rasam","Appalam","Pickle","Milk"]
+    ],
+    [
+        ["0800","Kal dosa","Sambar/Vadacurry","Tomato chutney"],
+        ["1330","More kozhambu","Green peas masala","Kathiri, urulai mocchai masala","Paruppu Rasam","Steam Rice","Butter Milk","Appalam","Pickle"],
+        ["1700","Choco Vanilla cake","Tea/Coffee"],
+        ["2030","Tomato and chick peas pulao","Chapathi","Dal fry","Pickle","Raitha","Banana","Milk"]
+    ],
+    [
+        ["0800","Rava kitchadi","Sambar","Coconut chutney"],
+        ["1330","Yellow Dal Dry","Potato roast","Chapathi","Tomato rasam","Variety Rice","Steam Rice","Butter Milk","Appalam","Pickle"],
+        ["1700","Fruit Muffin","Tea/Coffee"],
+        ["2030","Idly","Sambhar","Chutney","Chapathi","Kadai Veg","Banana","Milk"]
+    ],
+    [
+        ["0800","Ghee Pongal","Medhu bonda","Sambar","Coconut chutney"],
+        ["1330","Kathri Karakozhambu","Chapathi","Kadamba kootu","Parupu Rasam","Steam Rice","Butter Milk","Appalam","Pickle","Veg Kurma"],
+        ["1700","Cream bun","Tea/Coffee"],
+        ["2030","Chapathi","Gobi peas gravy","Steam rice","Sambhar","Rasam","Vazhakkai Masala","Appalam","Pickle","Milk"]
+    ]
+]
